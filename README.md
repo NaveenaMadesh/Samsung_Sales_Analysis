@@ -1,7 +1,7 @@
 # Samsung Global Product Sales - EDA Project
 
 ## About this project
-This is a Data Analyst portfolio project where I analyzed Samsung's global product sales data to find useful patterns and insights using Python. I did this project on my own as part of preparing to apply for Data Analyst roles, so the whole process - cleaning, analysis, visualization and observations - is done by me from scratch.
+This is a Data Analyst portfolio project where I analyzed Samsung's global product sales data to find useful patterns and insights using Python. I did this project on my own as part of preparing to apply for Data Analyst roles, so the whole process was - cleaning, analysis, visualization and observations - is done by me from scratch.
 
 ## Dataset
 I picked this dataset from Kaggle: [Samsung Global Product Sales Dataset](https://www.kaggle.com/datasets/ashyou09/samsung-global-product-sales-dataset)
