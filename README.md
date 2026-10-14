@@ -68,7 +68,7 @@ I didn't drop the null values from storage and customer_rating columns directly 
 - `README.md` - this file
 
 ## How to run this project
-1. Clone or download this repository (the dataset `samsung_global_sales_dataset.csv` is already included)
+1. Download this repository (the dataset `samsung_global_sales_dataset.csv` is already included)
 2. Install the required libraries:
    ```
    pip install pandas numpy matplotlib seaborn statsmodels
